@@ -1,0 +1,12 @@
+{
+  "name": "video-conference-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:im5ushant/video-conference-app.git",
+  "author": "Sushant Dev Singh <sushantdevsingh4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  }
+}
